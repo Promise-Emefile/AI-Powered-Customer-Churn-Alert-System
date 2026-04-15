@@ -391,7 +391,7 @@ ModuleNotFoundError: No module named 'crewai'
 
 Found a bug? Have a suggestion?
 
-- 📧 Email: promisecruzfrancis@gmail.com
+- 📧 Email: promiseemefile@gmail.com
 - 🐛 Create an Issue on GitHub
 - 💬 Start a Discussion
 
